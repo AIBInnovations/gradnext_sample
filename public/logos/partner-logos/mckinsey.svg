@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="240" height="80" viewBox="0 0 240 80" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- McKinsey stylized logo -->
+  <path d="M30 20H45V60H30V20Z" fill="#0C2340"/>
+  <path d="M50 20L65 40L80 20H95L70 50V60H60V50L35 20H50Z" fill="#0C2340"/>
+  <path d="M100 20H115V40H135V20H150V60H135V50H115V60H100V20Z" fill="#0C2340"/>
+  <path d="M160 20H210V30H175V35H205V45H175V50H210V60H160V20Z" fill="#0C2340"/>
+</svg>
